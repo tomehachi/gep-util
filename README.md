@@ -1,4 +1,6 @@
 gep-util
 ========
 
-A utility set of geplab.
+# What is this?
+This is a utility set of us. [geplab](http://www.geplab.com)
+
